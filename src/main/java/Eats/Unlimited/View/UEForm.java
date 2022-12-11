@@ -12,6 +12,7 @@ public class UEForm {
         Icon generatorIcon = new ImageIcon("gears.png");
 
         getGeneratorButton = new JButton(generatorIcon);
+
     }
 
 
